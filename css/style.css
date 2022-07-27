@@ -1858,12 +1858,14 @@ body.active{
     border: 1px solid rgba(18, 18, 18, 0.54);
     border-radius: 8px;
     height: 45px;
+    padding-right: 40px;
 }
 .contactForm .contactF textarea{
     height: 216px;
     padding: 0;
     margin: 0;
     padding: 15px;
+    padding-right: 40px;
     outline: none;
     border: 1px solid rgba(18, 18, 18, 0.54);
     border-radius: 8px;
