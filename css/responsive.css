@@ -581,6 +581,7 @@
     }
     .opportunitiesSection .linerCard .applyBtn{
         margin-top: 20px;
+        height: auto;
     }
     .card-leader .social-icons a img{
         max-width: 18px;

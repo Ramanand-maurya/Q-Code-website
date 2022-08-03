@@ -2269,6 +2269,7 @@ body.active{
     content: url(../images/ArrowBack.png);
     line-height: 60px;
 }
+/*------service Detail page --------*/
 .Service-detail-page{
     position: relative;
 }
